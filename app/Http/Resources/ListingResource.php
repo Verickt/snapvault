@@ -11,11 +11,12 @@ class ListingResource extends JsonResource
 {
     public function toArray(Request $request)
     {
+
         return [
             'id' => $this->id,
             'title' => $this->title,
             'description' => $this->description,
-            'image_path' => $this->image_path,
+            'image_paths' => $this->image_paths === '[]' ? '' : $this->image_paths,
             'created_at' => $this->created_at,
             'updated_at' => $this->updated_at,
 

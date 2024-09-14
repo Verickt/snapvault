@@ -12,9 +12,14 @@ class Listing extends Model
     protected $fillable = [
         'title',
         'description',
-        'image_path',
+        'image_paths',
         'vault_id',
     ];
+
+    protected $casts = [
+        'image_paths' => 'array',
+    ];
+
 
     public function vault()
     {

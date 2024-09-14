@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pro-gecko-435611-a5",
+  "private_key_id": "2ae489205221fc37d6acecd4c6192f463243162a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4AduNyLw2sNAH\nYik96r9wqr2o7OhPQLIaWU4Dk8kGmGYB9Uhp+OCOtlIu746IHT/drN6MIW1/6y7U\nn0SX8hQMnkMvtxhzKrh9BURtw5RaJx3T9NNIs4jrXHnMxczDNUrKG+JGosXqeb6g\nkaKbPtBv30P5VA6SGdkw3r8pEXalAyxoDQYZm9Xm5HawgbBbEbjnRktK8cQ+P4nK\neOk1UrU5JY/CkGrN2ufaJcUn+kF14m4DY7ztp9nFomMDoirg/c7yuJ1Jle+ddebJ\n8XCiH00zZ+KdlOgbkkzrTGgCtdAPMPT/cfgsegUWcJhUpfuAXYpw1d6dFoK3m608\n3pZLXnq5AgMBAAECggEAFvQLCRORFY9r0Sf3tg9k7xnVYST1plaPK7CX2zlhr7lu\nAXDb+3V+FD9TtCLSQvzHEpDLDWw+u7YWLZQVMJEUMC4ZJR1wEYRdkXbek4SnVQb2\ndmdevdMWJtSZJafyRCg52p6s1MaJmBdfZf8/a0yOyrhtQxpZsPREKWT32ph2QNy/\nfTgA86uk9cFa/EaGFDfs+PiNuIvf5mFShWHk+jjA6F3p/MVCKpto96YI2n7ltuj8\n+3ZMaBnlIbTfWEtok2CeMOenO7+EWYO4liJjRXB9YvgrH3neCiFXnkVqYRPc9s97\nko6L0G9/gB58e9uVjByFvObWiMUr46KN7orTyso+IwKBgQDdEQx5W6SjGWSTC34N\nXfkZ5EMUbITZT619cxVQ14wSWP5KQ+JKdyDMIs8RydRw7nP4XQEdRU+iv6gIW2up\nZIDOZ8G1I8RhBYGFL0BKCHObN0psTRIUjgG14r3531pQE1nN8kRkXwj4hkUIVMdy\n/mrrjXe25HZwnIAQi88PgKkG8wKBgQDVFZ+MWbMEj09RgGxQjSBZjKIQ5aafDJ1o\ncN2sX171+DwIP6cBGLOI/wW6FsZDP/yWnB76dOlpimf76l9H+UfD/Zh0BYU6/mRe\nX3uLJ/MeSBOlvvkC7oHdTJygZy/ouDarkTzDfVcUv4nrepKJSiCy/+M3kBfFIX9s\nqbA9/iQ6owKBgB3gRPhNu1VThDUfM3zo+1ZVc/9ZnyajTwYKPJI9Xy/HmS4+OGHp\n8aPE/Ikh5rUQdNnW7+SdzmJnVnUyrb0p2QKMITCy0cJu9Q8j0KNwuvb6JPO4Ar6G\nZpLHPvd7CQCTbOqZWEbcVSEJPGEg3AedfKOy7b/o5lzXubMCwgwNTkqjAoGAQBWW\nvGElw9NN6ZcT/E3VUtlGzIokyGTE2mpHYNX1+0fC1kA+e8fwBt2b3VGIIyWVU750\nWqLaqBEmIM9mBIFmIf2c4hfe79UeXnuc7kb/iTXoIssCnO0aRXILEPq3n+f3GTY+\n7hQ+IlFQq29brsqKdwsaTNWbMIBYkFegV6SdRL0CgYEAxqYZFbKdlJClgqmlyaWx\n7ldIHVqn5yrKF/87rJFyHgJSrEwc9gX4APnAH2YEYEJNyBoDCKUq8GTg+WmA8So4\n9+w7n4iB0f4jOkNyViiFcH/xy4/qLJ06RSIk4VQqefMF+RCnMHvm+88IPiUGEC8h\nR5mvffygKflMM92d49h8ge4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "snapvault@pro-gecko-435611-a5.iam.gserviceaccount.com",
+  "client_id": "104214026515820591009",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/snapvault%40pro-gecko-435611-a5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
